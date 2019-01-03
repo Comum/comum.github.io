@@ -1,11 +1,11 @@
 {
-  "main.js": "https://comum.github.io/static/js/main.2187d470.chunk.js",
-  "main.js.map": "https://comum.github.io/static/js/main.2187d470.chunk.js.map",
-  "static/js/1.ea3f2b37.chunk.js": "https://comum.github.io/static/js/1.ea3f2b37.chunk.js",
-  "static/js/1.ea3f2b37.chunk.js.map": "https://comum.github.io/static/js/1.ea3f2b37.chunk.js.map",
-  "runtime~main.js": "https://comum.github.io/static/js/runtime~main.cd384983.js",
-  "runtime~main.js.map": "https://comum.github.io/static/js/runtime~main.cd384983.js.map",
-  "index.html": "https://comum.github.io/index.html",
-  "precache-manifest.1f211154e1a900789fe4d8edcfe2dd26.js": "https://comum.github.io/precache-manifest.1f211154e1a900789fe4d8edcfe2dd26.js",
-  "service-worker.js": "https://comum.github.io/service-worker.js"
+  "main.js": "/static/js/main.c27a966e.chunk.js",
+  "main.js.map": "/static/js/main.c27a966e.chunk.js.map",
+  "static/js/1.7f8e4c1b.chunk.js": "/static/js/1.7f8e4c1b.chunk.js",
+  "static/js/1.7f8e4c1b.chunk.js.map": "/static/js/1.7f8e4c1b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.49c9a1f0bb39e7c9061c40a7609492f8.js": "/precache-manifest.49c9a1f0bb39e7c9061c40a7609492f8.js",
+  "service-worker.js": "/service-worker.js"
 }
